@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan Renzo</h1>
-<h3 align="center">I am currently interested in data science and machine learning. I knowledge of construction predictive models to provide solid findings to help companies make more informed decisions and maximize their outcomes. 👨🏽‍🏫</h3>
+<h3 align="center">I am currently interested in data science and machine learning. Knowledge of construction predictive models to provide solid findings to help companies make more informed decisions and maximize their outcomes. 👨🏽‍🏫</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supeernov-a&label=Profile%20views&color=0e75b6&style=flat" alt="supeernov-a" /> </p>
 
