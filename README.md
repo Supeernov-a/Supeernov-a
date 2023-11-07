@@ -8,11 +8,11 @@
 - 📝 I wrote an article on **Medium**
 
 - I recommend you visit my projects 👨‍💻
-  [CellPhone Price](https://www.kaggle.com/code/johanrenzosm/cellphone-project-linear-regression)
-  [Cycle Power Plant](https://www.kaggle.com/code/johanrenzosm/power-plant-project-tensorflow)
-  [Loan Predictions](https://www.kaggle.com/code/johanrenzosm/loan-predictions)
-  [Cleaning Data](https://www.kaggle.com/code/johanrenzosm/cleaning-data-movile-project)
-  [Time Serie](https://www.kaggle.com/code/johanrenzosm/time-series-s-ries-temporais)
+  [CellPhone Price](https://www.kaggle.com/code/johanrenzosm/cellphone-project-linear-regression),
+  [Cycle Power Plant](https://www.kaggle.com/code/johanrenzosm/power-plant-project-tensorflow),
+  [Loan Predictions](https://www.kaggle.com/code/johanrenzosm/loan-predictions),
+  [Time Serie](https://www.kaggle.com/code/johanrenzosm/time-series-s-ries-temporais),
+  [Cleaning Data](https://www.kaggle.com/code/johanrenzosm/cleaning-data-movile-project).
 
 - 🌱 I’m currently learning **Pyspark, Tableau**
 
