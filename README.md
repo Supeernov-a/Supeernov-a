@@ -7,7 +7,10 @@
 
 - 📝 I wrote an article on **Medium**
 
-- I recommend you visit my projects 👨‍💻 [CellPhone Price](https://www.kaggle.com/code/johanrenzosm/cellphone-project-linear-regression), [Cycle Power Plant](https://www.kaggle.com/code/johanrenzosm/power-plant-project-tensorflow)
+- I recommend you visit my projects 👨‍💻
+  [CellPhone Price](https://www.kaggle.com/code/johanrenzosm/cellphone-project-linear-regression)
+  [Cycle Power Plant](https://www.kaggle.com/code/johanrenzosm/power-plant-project-tensorflow)
+  [Loan Predictions](https://www.kaggle.com/code/johanrenzosm/loan-predictions)
   
 
 - 🌱 I’m currently learning **Pyspark, Tableau**
