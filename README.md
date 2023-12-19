@@ -14,6 +14,8 @@
   [Time Serie](https://www.kaggle.com/code/johanrenzosm/time-series-s-ries-temporais),
   [Cleaning Data](https://www.kaggle.com/code/johanrenzosm/cleaning-data-movile-project).
 
+- My Tableau's dashboard are available at [Tableau](https://public.tableau.com/app/profile/johan.renzo.salazar.malpartida/vizzes)
+
 - 🌱 I’m currently learning **Pyspark, Tableau**
 
 <h3 align="left">Connect with me:</h3>
