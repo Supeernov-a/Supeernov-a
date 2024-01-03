@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan Renzo</h1>
-<h3 align="center">I am currently interested in data science and machine learning. Developing algorithms, solutions, and tools that enable companies and their analysts to extract insights from data to decision-makers. 👨🏽‍🏫</h3>
+<h3 align="center"> I am currently interested in data science and machine learning. Development algorithms, solutions, and tools that enable companies and their analysts to extract insights from data for decision-makers. 👨🏽‍🏫</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supeernov-a&label=Profile%20views&color=0e75b6&style=flat" alt="supeernov-a" /> </p>
 
