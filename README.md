@@ -18,7 +18,7 @@
   
 - 🌱 I’m currently learning **Pyspark, Tableau**
 
-- TOV equations for Bag model B = 145 MeV ([TOV's equations](https://github.com/Supeernov-a/TOV-s-equation)
+- TOV equations for Bag model B = 145 MeV [TOV's equations](https://github.com/Supeernov-a/TOV-s-equation)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
