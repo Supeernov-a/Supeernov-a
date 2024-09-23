@@ -18,7 +18,7 @@
   
 - 🌱 I’m currently learning **Pyspark, Tableau**
 
-- TOV equations solver [TOV's equations]([https://github.com/Supeernov-a/TOV-s-equation](https://github.com/Supeernov-a/Two-Fluids-TOV-solver))
+- TWO-Fluids solver [TOV's equations]([https://github.com/Supeernov-a/TOV-s-equation](https://github.com/Supeernov-a/Two-Fluids-TOV-solver)
 - 💻⚛️ Quantum Computing - Pennylane [Notebook](https://github.com/Supeernov-a/Quantum-Computing---Pennylane)
 
 <h3 align="left">Connect with me:</h3>
